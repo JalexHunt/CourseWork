@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+}
+
+.main {
+  color: aqua;
+  padding: 20px;
+  background-color: black;
+}
+
+.container {
+  background-color: azure;
+  padding: 20px;
+  border: 3px black;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  margin-left: 100px;
+}
+
+img {
+  margin-right: 100px;
+}
+
+footer {
+  text-align: right;
+}
+
+body {
+  padding: 20px;
+}
+
+.feedback {
+  text-align: right;
+}
+
+h2 {
+  background-color: pink;
+}/*# sourceMappingURL=bookstore.css.map */

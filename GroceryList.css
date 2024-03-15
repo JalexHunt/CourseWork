@@ -1,0 +1,9 @@
+p{color:darkblue;border-style:solid;}
+th{color:lightsalmon; border-style:solid;border-color:black;border-width:5px;background-color:cornflowerblue;}
+section{background-color:slategray;}
+th,td{padding:20px}
+ol{color: black;}
+ul{color:black}
+.canned{background-color: black;border-color: cornflowerblue;}
+.freezer{background-color:lightpink;}
+.item{background-color: white;}
