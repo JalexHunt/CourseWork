@@ -1,0 +1,34 @@
+body header {
+  width: 1000px;
+  text-align: center;
+  margin: auto;
+}
+body header h1 {
+  background-color: bisque;
+  border-style: solid;
+  color: cadetblue;
+}
+body header h2 {
+  background-color: white;
+  color: burlywood;
+}
+body section {
+  background-color: lightblue;
+  width: 700px;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+}
+body section img {
+  height: 100px;
+}
+body section a {
+  margin-left: 20px;
+}
+
+footer {
+  text-align: right;
+}/*# sourceMappingURL=bookstore.css.map */
